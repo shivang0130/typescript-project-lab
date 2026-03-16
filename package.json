@@ -1,0 +1,16 @@
+{
+  "name": "typescript-project-lab",
+  "version": "1.0.0",
+  "description": "A structured workspace documenting my hands-on journey learning **TypeScript** through small programs, data modeling exercises, and mini projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
